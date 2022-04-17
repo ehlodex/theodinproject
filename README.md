@@ -1,2 +1,2 @@
-# theodinproject
-Code for TheOdinProject.com
+# TheOdinProject.com
+Code for TheOdinProject.com Lessons
